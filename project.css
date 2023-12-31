@@ -177,3 +177,7 @@ body {
     background: #000000;
     border-radius: 6px; 
 }
+
+body{
+  color: white !important;
+}
